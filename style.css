@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    background-image: url('/shanghai_road-trip-with-raj-py8eyAh9J3A-unsplash-scaled.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+main{
+    width: 600px;
+    margin: 200px 150px;
+}
+
+.btn2{
+    background: none;
+    border: 2px solid rgb(5, 239, 185);
+    padding: 5px;
+    color: rgb(5, 239, 185);
+    border-radius: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
